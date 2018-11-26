@@ -9,6 +9,9 @@ scraped, including how to perform the crawl (i.e. follow links) and how to
 extract structured data from their pages (i.e. scraping items). In other words,
 Spiders are the place where you define the custom behaviour for crawling and
 parsing pages for a particular site (or, in some cases, a group of sites).
+蜘蛛是定义某个站点（或一组站点）的方式的类 8 刮，包括如何执行爬网（即跟随链接）和如何 9 从他们的页面中提取结构化数据（即抓取项目）。
+换一种说法， 蜘蛛是您定义爬行和自定义行为的地方 11 解析特定站点（或者在某些情况下，一组站点）的页面。
+
 
 For spiders, the scraping cycle goes through something like this:
 
